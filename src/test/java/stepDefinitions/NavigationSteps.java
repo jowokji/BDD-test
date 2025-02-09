@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import io.cucumber.java.en.*;
 import static org.testng.AssertJUnit.assertTrue;
-import static utils.Paths.*;
+import static utils.WebDriverManeger.*;
 
 public class NavigationSteps {
     WebDriver driver;
